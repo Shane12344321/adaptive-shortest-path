@@ -1,0 +1,6 @@
+{
+    "bucket_threshold": 100,
+    "dense_threshold": 0.5,
+    "size_limit": 10000,
+    "confidence_margin": 0.05
+}
